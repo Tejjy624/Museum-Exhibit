@@ -1,4 +1,5 @@
-# Meme generator
+# Museum Exhibit
+
 This app demonstrates a few things that are useful for Assignment 1
 
 It's server code allows you to use (normal) relative paths to serve your assets on Glitch,
